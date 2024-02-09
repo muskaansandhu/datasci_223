@@ -22,3 +22,5 @@ Here is the link to exercise #3, Excercise_Chinook: https://github.com/muskaansa
 
 
 This code was written in Jupyter notebook in VS code. To run the code, you need to import pandas and sqlite3. For this exercise, the diagram provided the exercise_3 folder was very helpful for visualizing how the data was set up and made it easier to complete the exercise. 
+
+Exercise 4: 
